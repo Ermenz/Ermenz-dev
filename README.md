@@ -16,7 +16,7 @@
 
 ### 📈 Estatísticas
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ermenz&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ermenz&layout=compact&langs_count=6&hide=c" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ermenz&theme=radical" />
 </p>
 
