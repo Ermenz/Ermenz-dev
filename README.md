@@ -16,7 +16,7 @@
 
 ### 📈 Estatísticas
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ermenz-dev&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ermenz&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=erick-dev&theme=radical" />
 </p>
 
@@ -24,7 +24,7 @@
 
 ### 📊 Linguagens mais usadas
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-dev&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ermenz&layout=compact&theme=tokyonight" />
 </p>
 
 ---
